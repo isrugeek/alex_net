@@ -3,5 +3,5 @@ Transfer Learning for AlexNet
 
 ## Results
 <p align="center">
-  <img src="Exp9.pdf">
+  <img src="Exp9.png">
 </p>
